@@ -9,5 +9,5 @@ A shameless rip-off of Lucario flat theme.
 Add following line to your `~/.vimrc` file:
 
 				syntax enable
-				set number
+				set number " comment this to hide numbering
 				colorscheme magnemite

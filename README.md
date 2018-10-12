@@ -11,3 +11,6 @@ Add following line to your `~/.vimrc` file:
 				syntax enable
 				set number " comment this to hide numbering
 				colorscheme magnemite
+
+## Screenshots
+![alt text](screenshots/1.png)

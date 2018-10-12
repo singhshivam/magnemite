@@ -9,9 +9,9 @@ Magnemite is heavily inspired by the Lucario flat theme.
 
 Add following line to your `~/.vimrc` file:
 
-				syntax enable
-				set number " comment this to hide numbering
-				colorscheme magnemite
+    syntax enable
+    set number " comment this to hide numbering
+    colorscheme magnemite
 
 ## Screenshots
 ![screenshot](images/1.png)
